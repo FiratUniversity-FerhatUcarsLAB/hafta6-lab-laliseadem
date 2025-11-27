@@ -1,6 +1,6 @@
 Isim Soyisim: Lalise Adem Wado
 Ogrenci No: 240541610
-konu: Ogrenci Not Degerlendirme Sistemi.
+konu: Sinema Bilet Sistemi.
 
 
 import java.util.Scanner;
@@ -120,3 +120,4 @@ public class SenemaBIleti {
 
 
 }
+
